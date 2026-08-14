@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Swindler
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Swindler&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Swindler Header Banner" />
+
+  <h1>🚀 Swindler</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/swindler"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Swindler** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,73 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Swindler - Play Online for Free
-
-## Overview
-Play Swindler online for free. Unblocked and available on all devices. Experience the best Swindler gameplay now!
-
-### Game Details & Guide
-Game Overview
-
-
-Swindler is a browser game developed by Gameloft, released in 2021 for various platforms. The game revolves around deception and misdirection as players take on the role of a professional con artist. In Swindler, you will navigate through virtual casinos, poker rooms, and high-stakes card tables to deceive and swindle wealthy clients while building your reputation.
-
-
-How to Play
-
-
-To play Swindler, follow these steps:
-
-1.  Open the game in a web browser.
-2.  Choose your character class: Rookie, Consigliere, or Mastermind.
-3.  Start by joining a virtual casino or poker room.
-4.  Begin by taking on small, low-stakes missions to gain experience and reputation points.
-5.  As you progress, take on higher-stakes missions that reward more money and prestige.
-
-
-Tips and Tricks for Success
-
-• Focus on building your reputation by consistently performing well in high-stakes missions.
-• Invest in upgrading your skills and equipment to improve performance.
-• Manage your finances carefully to avoid going bankrupt and maintain a steady income.
-• Continuously adapt to changing circumstances, such as new challenges or unexpected setbacks.
-
-
-Why You Should Play It
-
-
-Swindler offers an engaging and immersive gaming experience that combines strategy, deception, and high-stakes competition. By playing Swindler, you can:
-• Develop your critical thinking and problem-solving skills.
-• Enhance your knowledge of card games and betting strategies.
-• Enjoy a thrilling adventure with intricate puzzles to solve.
-• Engage in social interaction with other players through chat or leaderboards.
-
-
-Additional Features
-
-• Regular updates with new missions, game modes, and features.
-• A vast array of characters, each with unique abilities and strengths.
-• High-quality visuals and sound effects that enhance the overall gaming experience.
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
